@@ -1,9 +1,9 @@
 <?php
 // Database configuration
 $host = "localhost";      // Database host (usually localhost for local development)
-$username = "adnan";       // Database username (default for XAMPP/WAMP)
+$username = "u324921317_suryac";       // Database username (default for XAMPP/WAMP)
 $password = "Adnan@66202";           // Database password (default empty for XAMPP/WAMP)
-$database = "invialuxe";  // Name of your database
+$database = "u324921317_invialuxe";  // Name of your database
 
 // Create database connection
 $conn = mysqli_connect($host, $username, $password, $database);
